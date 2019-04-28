@@ -1,2 +1,8 @@
+ 
+
 1. repository name can't add emoji.
 2. repository description can add emoji.
+
+
+3. in repository README.md file can add,show emoji.
+4. "Add an optional extended description…" <== can add emoji when commit or ppull request or editing time.
